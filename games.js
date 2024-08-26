@@ -1,5 +1,5 @@
 // Image credits: Kickstarter
-const games = ` [
+const games = [
   {
     "name": "Heroes Of Mythic Americas",
     "description": "An exciting 5e RPG supplement that heroically represents pre-Columbian American cultures and mythologies",
@@ -88,17 +88,6 @@ const games = ` [
     "backers": 9264,
     "img": "./assets/kingdom_death.png"
   }
-]
-`
-const template = `
-{
-"name": "",
-"description": "",
-"pledged": 0,
-"goal": 0,
-"backers": 0,
-"img": ""
-},
-`
+];
 
 export default games;
