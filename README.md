@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Watch the video](https://raw.githubusercontent.com/AceKb/web102_prework/main/assets/thumbnail.jpg)))](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/WALK%20THRU.webm)
+[![Watch the video] https://i.imgur.com/RtPq60m.gif
 
 
 ## Notes
